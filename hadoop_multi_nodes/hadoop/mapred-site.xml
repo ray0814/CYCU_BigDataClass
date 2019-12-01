@@ -96,9 +96,4 @@
             記憶體設定越大就越大，如：32, 64, 128, 256, 512
       </description>
      </property>
-
-
-
-
-
 </configuration>
